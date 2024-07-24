@@ -7,7 +7,7 @@ package-as: Altoholic
 move-folders:
   fork-wow-Altoholic_Retail/AddonFactory: AddonFactory
   fork-wow-Altoholic_Retail/Altoholic: Altoholic
-  fork-wow-Altoholic_Retail/Altoholic_Achievements: AAltoholic_Achievements
+  fork-wow-Altoholic_Retail/Altoholic_Achievements: Altoholic_Achievements
   fork-wow-Altoholic_Retail/Altoholic_Agenda: Altoholic_Agenda
   fork-wow-Altoholic_Retail/Altoholic_Characters: Altoholic_Characters
   fork-wow-Altoholic_Retail/Altoholic_Grids: Altoholic_Grids
