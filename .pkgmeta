@@ -1,0 +1,17 @@
+package-as: Altoholic
+
+# manual-changelog:
+#     filename: changelog.md
+#     markup-type: markdown
+
+move-folders:
+  fork-wow-Altoholic_Retail/AddonFactory: AddonFactory
+  fork-wow-Altoholic_Retail/Altoholic: Altoholic
+  fork-wow-Altoholic_Retail/Altoholic_Achievements: AAltoholic_Achievements
+  fork-wow-Altoholic_Retail/Altoholic_Agenda: Altoholic_Agenda
+  fork-wow-Altoholic_Retail/Altoholic_Characters: Altoholic_Characters
+  fork-wow-Altoholic_Retail/Altoholic_Grids: Altoholic_Grids
+  fork-wow-Altoholic_Retail/Altoholic_Guild: Altoholic_Guild
+  fork-wow-Altoholic_Retail/Altoholic_Options: Altoholic_Options
+  fork-wow-Altoholic_Retail/Altoholic_Search: Altoholic_Search
+  fork-wow-Altoholic_Retail/Altoholic_Summary: Altoholic_Summary
