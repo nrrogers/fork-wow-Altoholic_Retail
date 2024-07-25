@@ -33,3 +33,19 @@ move-folders:
   Altoholic_Retail/Altoholic_Options: Altoholic_Options
   Altoholic_Retail/Altoholic_Search: Altoholic_Search
   Altoholic_Retail/Altoholic_Summary: Altoholic_Summary
+  Altoholic_Retail/DataStore: DataStore
+  Altoholic_Retail/DataStore_Achievements: DataStore_Achievements
+  Altoholic_Retail/DataStore_Auctions: DataStore_Auctions
+  Altoholic_Retail/DataStore_Characters: DataStore_Characters
+  Altoholic_Retail/DataStore_Containers: DataStore_Containers
+  Altoholic_Retail/DataStore_Crafts: DataStore_Crafts
+  Altoholic_Retail/DataStore_Currencies: DataStore_Currencies
+  Altoholic_Retail/DataStore_Garrisons: DataStore_Garrisons
+  Altoholic_Retail/DataStore_Inventory: DataStore_Inventory
+  Altoholic_Retail/DataStore_Mails: DataStore_Mails
+  Altoholic_Retail/ataStore_Pets: DataStore_Pets
+  Altoholic_Retail/DataStore_Quests: DataStore_Quests
+  Altoholic_Retail/DataStore_Reputations: DataStore_Reputations
+  Altoholic_Retail/DataStore_Spells: DataStore_Spells
+  Altoholic_Retail/DataStore_Stats: DataStore_Stats
+  Altoholic_Retail/DataStore_Talents: DataStore_Talents
