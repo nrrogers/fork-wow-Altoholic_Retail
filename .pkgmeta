@@ -4,6 +4,24 @@ package-as: Altoholic_Retail
 #     filename: changelog.md
 #     markup-type: markdown
 
+externals:
+  DataStore: https://github.com/Thaoky/DataStore.git
+  DataStore_Achievements: https://github.com/Thaoky/DataStore_Achievements.git
+  DataStore_Auctions: https://github.com/Thaoky/DataStore_Auctions.git
+  DataStore_Characters: https://github.com/Thaoky/DataStore_Characters.git
+  DataStore_Containers: https://github.com/Thaoky/DataStore_Containers.git
+  DataStore_Crafts: https://github.com/Thaoky/DataStore_Crafts.git
+  DataStore_Currencies: https://github.com/Thaoky/DataStore_Currencies.git
+  DataStore_Garrisons: https://github.com/Thaoky/DataStore_Garrisons.git
+  DataStore_Inventory: https://github.com/Thaoky/DataStore_Inventory.git
+  DataStore_Mails: https://github.com/Thaoky/DataStore_Mails.git
+  DataStore_Pets: https://github.com/Thaoky/DataStore_Pets.git
+  DataStore_Quests: https://github.com/Thaoky/DataStore_Quests.git
+  DataStore_Reputations: https://github.com/Thaoky/DataStore_Reputations.git
+  DataStore_Spells: https://github.com/Thaoky/DataStore_Spells.git
+  DataStore_Stats: https://github.com/Thaoky/DataStore_Stats.git
+  DataStore_Talents: https://github.com/Thaoky/DataStore_Talents.git
+
 move-folders:
   Altoholic_Retail/AddonFactory: AddonFactory
   Altoholic_Retail/Altoholic: Altoholic
