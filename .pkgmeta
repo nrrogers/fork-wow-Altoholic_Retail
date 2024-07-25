@@ -5,13 +5,13 @@ package-as: Altoholic_Retail
 #     markup-type: markdown
 
 move-folders:
-  fork-wow-Altoholic_Retail/AddonFactory: AddonFactory
-  fork-wow-Altoholic_Retail/Altoholic: Altoholic
-  fork-wow-Altoholic_Retail/Altoholic_Achievements: Altoholic_Achievements
-  fork-wow-Altoholic_Retail/Altoholic_Agenda: Altoholic_Agenda
-  fork-wow-Altoholic_Retail/Altoholic_Characters: Altoholic_Characters
-  fork-wow-Altoholic_Retail/Altoholic_Grids: Altoholic_Grids
-  fork-wow-Altoholic_Retail/Altoholic_Guild: Altoholic_Guild
-  fork-wow-Altoholic_Retail/Altoholic_Options: Altoholic_Options
-  fork-wow-Altoholic_Retail/Altoholic_Search: Altoholic_Search
-  fork-wow-Altoholic_Retail/Altoholic_Summary: Altoholic_Summary
+  Altoholic_Retail/AddonFactory: AddonFactory
+  Altoholic_Retail/Altoholic: Altoholic
+  Altoholic_Retail/Altoholic_Achievements: Altoholic_Achievements
+  Altoholic_Retail/Altoholic_Agenda: Altoholic_Agenda
+  Altoholic_Retail/Altoholic_Characters: Altoholic_Characters
+  Altoholic_Retail/Altoholic_Grids: Altoholic_Grids
+  Altoholic_Retail/Altoholic_Guild: Altoholic_Guild
+  Altoholic_Retail/Altoholic_Options: Altoholic_Options
+  Altoholic_Retail/Altoholic_Search: Altoholic_Search
+  Altoholic_Retail/Altoholic_Summary: Altoholic_Summary
