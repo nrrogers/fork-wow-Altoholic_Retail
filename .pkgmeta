@@ -36,7 +36,7 @@ move-folders:
   Altoholic_Retail/Altoholic_Summary: Altoholic_Summary
   Altoholic_Retail/DataStore/DataStore: DataStore
   Altoholic_Retail/DataStore_Achievements/DataStore_Achievements: DataStore_Achievements
-  Altoholic_Retail/DataStore_Achievements/DataStore_Agenda: DataStore_Agenda
+  Altoholic_Retail/DataStore_Agenda/DataStore_Agenda: DataStore_Agenda
   Altoholic_Retail/DataStore_Auctions/DataStore_Auctions: DataStore_Auctions
   Altoholic_Retail/DataStore_Characters/DataStore_Characters: DataStore_Characters
   Altoholic_Retail/DataStore_Containers/DataStore_Containers: DataStore_Containers
